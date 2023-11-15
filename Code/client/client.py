@@ -1,17 +1,3 @@
-"""
-@File   : client.py
-@Time   : 2021 April
-@Author : Tianyu Zhang
-@Contact: tzhang6@ualberta.ca
-@License: Copyright (c) Tianyu Zhang.
-          This code is presented in an educational context for personal use
-          and study and should not be shared, distributed, or sold in print or
-          digitally outside the course without permission.
-
-          The above copyright notice and this permission notice shall be
-          included in all copies or substantial portions of the code.
-"""
-
 import math
 import time
 import sys

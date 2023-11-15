@@ -1,11 +1,3 @@
-/* -------------------------------------
-Name : Abhishek Kumar
-SID : 1709233
-CCID : asenthi1
-CMPUT275, Wi2022
-
-Assignment Part 2 : Trivial Navigation System Part 2
----------------------------------------*/
 #include <iostream>
 #include <cassert>
 #include <fstream>
